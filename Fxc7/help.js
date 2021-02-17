@@ -3,19 +3,19 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 	return `
 	
 \`\`\`Follow My Instagram\`\`\`
-${instagram}
+$GADA INSTAGRAM ANJ BIAR SABI
 
 \`\`\`SUBSCRIBE😁\`\`\`
-${yt}
+$SKRIKEP CHENEL ABIL GANS
 
 \`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+GA ADA GRUP CUK SEDIH:)
 
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
 \`\`\`MENGGUNAKAN BOT\`\`\`
 
-╭──────「 *REGULATION ${name}* 」
+╭──────「 *REGULATION ${SABI BOT}* 」
 ┴
 ┣⊱  \`\`\`NAMA USER:\`\`\` *${pushname2}*
 ┣⊱  \`\`\`VERIVICATION:\`\`\` ✅
@@ -32,7 +32,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭──────「 *ABOUT ${name}* 」
+╭──────「 *ABOUT ${ABIL GANS}* 」
 ┴
 │➻ *${prefix}report lapor bug*
 │➻ *${prefix}info*
@@ -326,12 +326,12 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭─────「 *SUPPORT ${name}* 」
+╭─────「 *SUPPORT ${ABIL BOT}* 」
 ┴
 │➲ *O BOT*
-│➲ *M. HADI FIRMANSYA*
-│➲ *DELIA AULIA*
-│➲ *KEVIN DAVID*
+│➲ *MWEHEHE:V*
+│➲ *MAAF YA:V*
+│➲ *SMOGA GA KENA ATCK:V*
 │➲ *MY TEAM FXC7 BOT*
 │➲ *CONTENT CREATOR BOT WHATSAPP*
 ┬
@@ -366,8 +366,8 @@ const donasi = (name) => {
 	return `       
 ╭─────「 *DONASI SEIKHLASNYA* 」
 ┴
-│√ *PULSA: 08311800241*
-│√ *OVO : 08311800241*
+│√ *PULSA: 6283891411268*
+│√ *OVO : 6283891411268*
 │
 │\`\`\`Pulsa\`\`\`
 │ *15k Invite Bot Ke Grup selama 1 bulan*
@@ -375,7 +375,7 @@ const donasi = (name) => {
 │\`\`\`OVO\`\`\`
 │ *10k Invite Bot Ke Group Selama 1 Bulan*
 ┬
-╰──────「 *BY ${name}* 」
+╰──────「 *BY ${ABIL BOT}* 」
 
 Untuk Kelangsungan Hidup Bot Karna Kuota Mahal:'
 `
