@@ -3,13 +3,13 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 	return `
 	
 \`\`\`Follow My Instagram\`\`\`
-$GADA INSTAGRAM ANJ BIAR SABI
+https://www.instagram.com/4b1l_gmz/
 
 \`\`\`SUBSCRIBE😁\`\`\`
-$SKRIKEP CHENEL ABIL GANS
+
 
 \`\`\`GROUP OFFICIAL\`\`\`
-GA ADA GRUP CUK SEDIH:)
++1 (917) 765-9142
 
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
@@ -25,7 +25,7 @@ GA ADA GRUP CUK SEDIH:)
 ┣⊱  \`\`\`TANGGAL:\`\`\` *${tanggal}*
 ┣⊱  \`\`\`VERSION:\`\`\` *6.5.0*
 ┣⊱  \`\`\`USER TERDAFTAR:\`\`\` *${user.length} User*
-┣⊱  ❌ *SPAM*
+┣⊱  ❌ *SPAM LANGSUNG GUA ENTOT*
 ┣⊱  ❌ *CALL & VC*
 ┣⊱  \`\`\`Melanggar??\`\`\` *Banned + Out Group*
 ┬
